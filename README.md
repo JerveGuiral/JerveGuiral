@@ -1,16 +1,16 @@
-## Hi there 👋
+🚀 About Me
+Hello! I'm Jerve Guiral, a third-year Bachelor of Science in Information Technology (BSIT) student at Caraga State Cabadbaran Campus.
 
-<!--
-**JerveGuiral/JerveGuiral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about web development and constantly seeking opportunities to learn and apply new technologies. I thrive on solving real-world problems through code and am actively expanding my skill.
 
-Here are some ideas to get you started:
+🎓 Current Status: Third-Year BSIT Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Location: Cubo Esperanza Agusan Del Sur
+
+📧 Contact: jervecute123@gmail.com
+
+💡 Skills & Technologies
+This section highlights the technologies I am proficient or actively working with.
+
+🌐 Frontend Development
+Languages: HTML5, CSS3, JavaScript
