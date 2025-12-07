@@ -15,3 +15,4 @@ This section highlights the technologies I am proficient or actively working wit
 
 🌐 Frontend Development
 Languages: HTML5, CSS3, JavaScript
+
