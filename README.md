@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZqZzR4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZleW16ZzR0amZpZnduOTZ6eHh4eHh4eHh4eHh4eHh4eHh4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 ### 💫 About Me
@@ -19,12 +19,13 @@ I am a **Third-Year BSIT Student** at Caraga State University (Cabadbaran Campus
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JerveGuiral&show_icons=true&theme=radical" alt="Jerve's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JerveGuiral&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Jerve's Stats" height="170" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerveGuiral&layout=compact&theme=radical&border_radius=10" alt="Jerve's Top Langs" height="170" />
 </p>
 
 <p align="center">
- <img src="https://streak-stats.demolab.com/?user=JerveGuiral&theme=radical" alt="GitHub Streak" height="170" />
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JerveGuiral&theme=react-dark&bg_color=1a1b27&hide_border=true&border_radius=10" width="100%" />
 </p>
 
 ---
@@ -42,5 +43,5 @@ I am a **Third-Year BSIT Student** at Caraga State University (Cabadbaran Campus
 - 💼 **LinkedIn:** [Your Profile](https://linkedin.com/in/your-profile)
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
 </p>
