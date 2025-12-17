@@ -19,7 +19,7 @@ I am a **Third-Year BSIT Student** at Caraga State University (Cabadbaran Campus
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical" alt="Jerve's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JerveGuiral&show_icons=true&theme=radical" alt="Jerve's Stats" />
 </p>
 
 <p align="center">
