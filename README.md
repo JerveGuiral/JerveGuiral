@@ -36,7 +36,6 @@ I am a **Third-Year BSIT Student** at Caraga State University (Cabadbaran Campus
 
 ### 📫 Let's Connect!
 - 📧 **Email:** [jervecute123@gmail.com](mailto:jervecute123@gmail.com)
-- 💼 **LinkedIn:** [Your Profile](https://linkedin.com/in/your-profile)
 
 <p align="center">
 <img src="
