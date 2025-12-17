@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZleW16ZzR0amZpZnduOTZ6eHh4eHh4eHh4eHh4eHh4eHh4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZleW16ZzR0amZpZnduOTZ6eHh4eHh4eHh4eHh4eHh4eHh4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
 </p>
 
 ### 💫 About Me
@@ -24,10 +24,6 @@ I am a **Third-Year BSIT Student** at Caraga State University (Cabadbaran Campus
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerveGuiral&layout=compact&theme=radical&border_radius=10" alt="Jerve's Top Langs" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JerveGuiral&theme=react-dark&bg_color=1a1b27&hide_border=true&border_radius=10" width="100%" />
-</p>
-
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -43,5 +39,4 @@ I am a **Third-Year BSIT Student** at Caraga State University (Cabadbaran Campus
 - 💼 **LinkedIn:** [Your Profile](https://linkedin.com/in/your-profile)
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
-</p>
+<img src="
