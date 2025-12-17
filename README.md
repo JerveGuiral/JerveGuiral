@@ -23,7 +23,7 @@ I am a **Third-Year BSIT Student** at Caraga State University (Cabadbaran Campus
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=radical" alt="Jerve's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JerveGuiral&theme=radical" alt="Jerve's Streak" />
 </p>
 
 ---
